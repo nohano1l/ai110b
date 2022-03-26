@@ -7,9 +7,13 @@
 [程式碼](https://github.com/nohano1l/ai110b/blob/master/NOTE/hw2_ratinmaze/ratinmaze.py)
 
 ![](https://github.com/nohano1l/ai110b/blob/master/NOTE/hw2_ratinmaze/1.png)
+
 ![](https://github.com/nohano1l/ai110b/blob/master/NOTE/hw2_ratinmaze/2.png)
+
 ![](https://github.com/nohano1l/ai110b/blob/master/NOTE/hw2_ratinmaze/3.png)
+
 ![](https://github.com/nohano1l/ai110b/blob/master/NOTE/hw2_ratinmaze/4.png)
+
 ```
 $ python ratinmaze.py 
 ███████
