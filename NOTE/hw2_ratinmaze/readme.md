@@ -6,14 +6,6 @@
 
 [程式碼](https://github.com/nohano1l/ai110b/blob/master/NOTE/hw2_ratinmaze/ratinmaze.py)
 
-![](https://github.com/nohano1l/ai110b/blob/master/NOTE/hw2_ratinmaze/1.png)
-
-![](https://github.com/nohano1l/ai110b/blob/master/NOTE/hw2_ratinmaze/2.png)
-
-![](https://github.com/nohano1l/ai110b/blob/master/NOTE/hw2_ratinmaze/3.png)
-
-![](https://github.com/nohano1l/ai110b/blob/master/NOTE/hw2_ratinmaze/4.png)
-
 ```
 $ python ratinmaze.py 
 ███████
@@ -172,3 +164,8 @@ $ python ratinmaze.py
 █ ....█
 ███████
 ```
+
+## 參考資料
+[常見程式演算:: 老鼠走迷宮](https://openhome.cc/zh-tw/algorithm/basics/maze/)
+
+[深度優先搜尋法](http://simonsays-tw.com/web/DFS-BFS/DepthFirstSearch.html)
