@@ -1,7 +1,11 @@
 # 數位影像處理
 本程式修改自[nicktien007的 github 專案](https://github.com/nicktien007/Nick.NCHU.DIP)及[[2020鐵人賽Day30]糊裡糊塗Python就上手-體驗 OpenCV 人臉辨識](https://ithelp.ithome.com.tw/articles/10251665)，經過自己理解後做的筆記。
 
-[LICENSE](https://github.com/nohano1l/ai110b/blob/master/NOTE/midexam/LICENSE)
+### 授權聲明
+* 本專案中的程式採用[MIT 授權](https://zh.wikipedia.org/wiki/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89)
+* 文章部分衍生自維基百科，採用 [CC:BY-SA](https://zh.wikipedia.org/zh-hant/Wikipedia%3ACC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC) 授權
+* [LICENSE](https://github.com/nohano1l/ai110b/blob/master/NOTE/midexam/LICENSE)
+* 若有用到非以上授權之參考資料及圖片，將會在每週的筆記內皆有標示出處
 
 以下程式碼皆有import cv2，需安裝OpenCV
 ```
