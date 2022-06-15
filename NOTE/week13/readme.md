@@ -1,9 +1,9 @@
-## Pytorch
+# Pytorch
 
-### ConvNetJS
+## ConvNetJS
 ![picture](https://github.com/nohano1l/ai110b/blob/master/NOTE/week13/2.png)
 
-### [mnist](https://github.com/nohano1l/ai110b/blob/master/NOTE/week13/mnist.py)
+## [mnist](https://github.com/nohano1l/ai110b/blob/master/NOTE/week13/mnist.py)
 
 需下載
 ```

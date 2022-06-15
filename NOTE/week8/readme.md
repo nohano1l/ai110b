@@ -1,9 +1,9 @@
-## 執行結果
-### textgen
+# 執行結果
+## textgen
 [textgen2.py](https://github.com/nohano1l/ai110b/blob/master/NOTE/week8/textgen/textgen2.py)
 
 [結果](https://github.com/nohano1l/ai110b/blob/master/NOTE/week8/textgen/text.out)
-### eliza
+## eliza
 [eliza.py](https://github.com/nohano1l/ai110b/blob/master/NOTE/week8/eliza.py)
 ```
 cxz1d@MSI MINGW64 ~/OneDrive/桌面/nohano1l/ai110b/NOTE/week8 (master)
@@ -47,7 +47,7 @@ $ python eliza.py
 你自己很笨
 ```
 
-### jieba
+## jieba
 [jieba2.py](https://github.com/nohano1l/ai110b/blob/master/NOTE/week8/jieba2.py)
 ```
 $ pip install jieba     //先下載Jieba

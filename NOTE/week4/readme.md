@@ -26,7 +26,7 @@ solution: {} energy([1.4500000000000004, 0.8699999999999999, 1.1])=-0.326800
 
 [GA](https://github.com/nohano1l/ai110b/blob/master/NOTE/week4/GA)
 
-[$ python keyGa.py](https://github.com/nohano1l/ai110b/blob/master/NOTE/week4/GA/KeyGa.exe)
+[$ python keyGa.py](https://github.com/nohano1l/ai110b/blob/master/NOTE/week4/GA/keyGa.exe)
 
 ## 差分進化算法(differential evolution）
 
