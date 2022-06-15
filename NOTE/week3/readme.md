@@ -1,5 +1,4 @@
 # 爬山演算法
-
 在數值分析中，爬山是一種數學優化技術，屬於局部搜索家族。它是一種迭代算法，從問題的任意解決方案開始，然後嘗試通過對解決方案進行增量更改來找到更好的解決方案。如果更改產生了更好的解決方案，則對新解決方案進行另一個增量更改，依此類推，直到找不到進一步的改進。
 
 [一維爬山演算法](https://github.com/nohano1l/ai110b/blob/master/NOTE/week3/hillclimbing1.py)
@@ -17,19 +16,15 @@
 [二維爬山演算法_架構版](https://github.com/nohano1l/ai110b/blob/master/NOTE/week3/hillclimbing3)
 
 執行hillClimbingNumber.py，但它會呼叫hillClimbing.py及SolutionNumber.py，SolutionNumber.py會再呼叫Solution.py
-
 ## Question(In my opinion)
-
 爬山演算法是最佳解嗎?
 ```
 不一定是，爬山演算法因為不是全面搜尋，所以結果可能不是最佳。
 ```
-
 爬山演算法只能算最高點嗎?
 ```
 我覺得不是，在算最高點及最低點的方式基本上是一樣的。
 ```
-
 ## 參考資料
 [維基百科](https://en.wikipedia.org/wiki/Hill_climbing)
 [什麼是hill-climbing演算法？？](https://www.itread01.com/content/1543233666.html)
